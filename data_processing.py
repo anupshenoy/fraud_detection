@@ -7,6 +7,6 @@ print('Adding all the data processing code related to Fraud detection')
 
 def sum(a,b):
     c = a+b
-    return a
+    return c
 
-print('added a new function sum which is not correct')
+print('added a new function sum which is NOW correct')
